@@ -2,19 +2,20 @@
 
 
 
+![mac0](img/mac0.png)
+
+![mac1](img/mac1.png)
+
+
 For Windows:
 
  [SimpleWebDAVServerForWindows.zip](SimpleWebDAVServerForWindows.zip) 
 
 
 
-
-
 For macOS:
 
  [SimpleWebDAVServerForMacOS.zip](SimpleWebDAVServerForMacOS.zip) 
-
-
 
 
 
